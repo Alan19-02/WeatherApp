@@ -1,2 +1,2 @@
 # WeatherApp
-Weather app made with using openweathermap API
+Weather app made with HTML, CSS, JavaScript and using openweathermap API.
